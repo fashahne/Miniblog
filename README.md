@@ -1,1 +1,2 @@
 "# Miniblog" 
+# armautoomation
